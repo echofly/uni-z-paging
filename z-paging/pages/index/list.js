@@ -1,5 +1,9 @@
 export default {
 	list: [{
+			title: 'issue43测试',
+			file: 'issue43-test',
+			subTitle: ''
+		},{
 			title: '普通模式演示',
 			file: 'common-demo',
 			subTitle: ''

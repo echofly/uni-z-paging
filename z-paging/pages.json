@@ -6,6 +6,13 @@
 				"navigationBarTitleText": "z-paging"
 			}
 		}, {
+			"path": "pages/issue43-test/issue43-test",
+			"style": {
+				"navigationBarTitleText": "issue43测试",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
 			"path": "pages/common-demo/common-demo",
 			"style": {
 				"navigationBarTitleText": "普通模式演示",
